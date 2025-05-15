@@ -1,4 +1,4 @@
-module deer.com/m/v2
+module github.com/poorCode/go_test
 
 go 1.23.7
 
